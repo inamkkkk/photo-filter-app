@@ -1,0 +1,40 @@
+# Logs and temporary files
+*.log
+tmp*
+
+# Build artifacts
+/build/
+/dist/
+/ios/Flutter/App.framework
+/ios/Flutter/App.framework.dSYM
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Flutter related files
+.dart_tool/
+.packages
+pubspec.lock
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Crash reports
+crashlytics/
+
+# Dependency directories (example for Node.js)
+node_modules/
+
+# Environment variables
+.env
+
+# Personal preferences and configuration
+local.properties
